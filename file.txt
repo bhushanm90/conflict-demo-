@@ -1,2 +1,1 @@
-branch  conflicting demo
-modifed file on feature branch
+modifed file on branch
